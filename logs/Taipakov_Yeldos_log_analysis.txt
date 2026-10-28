@@ -1,1 +1,14 @@
-Surname: Taipakov
+==================================
+Taipakov Yeldos - Log and Process Analysis
+Date: Wed Oct 28 15:18:56 +05 2026
+=== Java Processes ===
+eldos      10446  5.4 11.4 9899776 899356 ?      Ssl  14:27   2:48 /usr/lib/jvm/java-17-openjdk-amd64/bin/java --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED --add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.xml/javax.xml.namespace=ALL-UNNAMED --add-opens=java.base/java.time=ALL-UNNAMED -XX:MaxMetaspaceSize=384m -XX:+HeapDumpOnOutOfMemoryError -Xms256m -Xmx512m -Dfile.encoding=UTF-8 -Duser.country -Duser.language=en -Duser.variant -cp /home/eldos/.gradle/wrapper/dists/gradle-9.8.2-bin/8wepis63pzuhrlfaiy04bagwu/gradle-9.8.2/lib/gradle-daemon-main-9.8.2.jar -javaagent:/home/eldos/.gradle/wrapper/dists/gradle-9.8.2-bin/8wepis63pzuhrlfaiy04bagwu/gradle-9.8.2/lib/agents/gradle-instrumentation-agent-9.8.2.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 9.8.2
+=== Last 5 Lines of System Report ===
+eldos      17662  0.1  0.0   6268  5604 pts/4    Ss   15:17   0:00 -bash
+root           8  0.1  0.0   5404  2916 ?        Sl   13:39   0:09 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+eldos      17025  0.0  0.3  39188 26564 pts/5    T    15:17   0:00 /usr/bin/python3 /usr/lib/command-not-found -- Commands
+eldos      16551  0.0  0.3  39188 26532 pts/5    T    15:17   0:00 /usr/bin/python3 /usr/lib/command-not-found -- Surname:
+==================================
+=== Search for Surname ===
+5:Surname: Taipakov
+37:Surname: Taipakov
