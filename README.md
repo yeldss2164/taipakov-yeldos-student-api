@@ -33,3 +33,4 @@ Java 17, Spring Boot, Gradle, PostgreSQL, Docker Compose
 
 ### Run
 docker compose up -d --build
+Project status: Main branch ready
