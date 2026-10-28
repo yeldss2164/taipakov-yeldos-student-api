@@ -32,6 +32,10 @@ LOG_FILE="$PROJECT_DIR/logs/Taipakov_Yeldos_system_report.log"
     uname -a
 
     echo "----------------------------------"
+    echo "CPU Information:"
+    lscpu | grep -E 'Architecture:|CPU\(s\):|Model name:'
+
+    echo "----------------------------------"
     echo "Disk Usage:"
     df -h /
 
