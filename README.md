@@ -34,3 +34,4 @@ Java 17, Spring Boot, Gradle, PostgreSQL, Docker Compose
 ### Run
 docker compose up -d --build
 Project status: CRUD API implemented and documentation completed
+Jenkins SCM Polling enabled - Taipakov Yeldos 38321
