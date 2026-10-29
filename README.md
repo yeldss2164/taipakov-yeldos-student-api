@@ -154,3 +154,5 @@ The following functionality was tested:
 **Taipakov Yeldos**  
 Group: IT2-2310  
 Student ID: 38321
+
+Automatic Jenkins CI verification - Taipakov Yeldos 38321
